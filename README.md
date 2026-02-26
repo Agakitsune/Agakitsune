@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Agakitsune, I am an Epitech Student from L'ile de la Réunion (currently in my 4th year) and a Graphic Programmer (I least try to be one).
+I'm Agakitsune, I am an Epitech Student from L'ile de la Réunion (currently in my 5th year) and a Graphic Programmer (I least try to be one).
 
 Here is some stuff I have made in my Epitech years
 
@@ -20,5 +20,9 @@ Here is some stuff I have made in my Epitech years
 <img src="zappy.gif">
 <p>Zappy Project with a Custom Renderer (C++, OpenGL)</p>
 
+https://github.com/user-attachments/assets/7aeb7277-122d-4068-8a30-93ba282a0bb5
+<p>Bloom experiment with <a href="https://docs.godotengine.org/en/stable/tutorials/rendering/compositor.html" target="_blank">Godot 4 Compositor</a> based on <a href="https://learnopengl.com/Guest-Articles/2022/Phys.-Based-Bloom" target="_blank">LearnOpenGL</a></p>
+
 </br>
+
 </div>
